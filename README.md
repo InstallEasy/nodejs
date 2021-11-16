@@ -18,4 +18,4 @@ or if you want tls
 
 or fast download and auto start installation
 
-     bash <(curl -sL https://raw.githubusercontent.com/krlex/nodejs-installation/main/script.sh) current
+     bash <(curl -sLhttps://raw.githubusercontent.com/InstallEasy/nodejs/main/script.sh) current
